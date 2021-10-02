@@ -10,8 +10,6 @@
 
 import urllib.request as urlrequset
 from bs4 import BeautifulSoup
-import xlsxwriter
-import io
 import os
 import time
 
